@@ -1,0 +1,8 @@
+position = "NONE"              # "NONE", "BOUGHT", "SOLD"
+buy_price = 0                 # Alış fiyatı (USD/coin)
+holding_amount = 0.0          # Elde tutulan coin miktarı
+cost = 0                      # Toplam maliyet (USD)
+max_profit = 0                # En yüksek gözlemlenen kar (USD)
+profit_increment = 0.1        # Kar artışında izlenecek minimum artış (USD)
+base_profit = 0.5             # Satış için gerekli minimum kar (USD)
+budget = 50                   # Alım için ayrılan bütçe (USD)
